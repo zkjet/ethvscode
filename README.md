@@ -1,21 +1,36 @@
-# synthwave-x-fluoromachine
-This is a fork of @robbowen's [Synthwave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode), merged with @fullerenedream's [Fluoromachine](https://colorsublime.github.io/themes/FluoroMachine/) theme for VSCode. 
+# Ξ VS Code Theme
+```JavaScript
+/*
+* @title Ξ
+* @author zkJΞT
+* @description ΞTH VSCode Theme
+* Twitter - @zkjet 
+*/
 
-![Theme screenshot](https://repository-images.githubusercontent.com/184457193/69dcff00-14d2-11ea-90e1-4bdf6fef80ca)
+// After a few hackathons being asked what 
+// vscode theme I was using, I decided to 
+// make it official, fork my favorite one, 
+// synthwave-x-fluoromachine and customize it fully. https://github.com/webrender/synthwave-x-fluoromachine.
 
-## Installation 
+// To find this theme in search ethvscode or 
+// 'ce9e' for the utf-8 of Ξ.
+```
+### Screenshot
+![Theme screenshot](screenshot.png)
+
+### Installation 
 
 • install this theme  
 • install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)  
 • link the CSS file from this extension in your vscode settings.json: 
 
 
-```
+```json
 On Mac it might look something like the snippet below:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.12/synthwave-x-fluoromachine.css"
+    "file:///Users/{your username}/.vscode/extensions/ethvscode/ethvscode.css"
     ]
 }
 
@@ -23,11 +38,11 @@ Windows might resemble:
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.12/synthwave-x-fluoromachine.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/ethvscode/ethvscode.css"
     ]
 }
 ```
 • From the command panel, select `Reload Custom CSS and JS`. You'll need to run this command every time vscode updates.
 
 ## Font
-The font being used in the screenshot above is [Operator Mono with Ligatures](https://github.com/kiliman/operator-mono-lig).
+The font being used in the screenshot above is [Fira Code](https://github.com/tonsky/FiraCode).

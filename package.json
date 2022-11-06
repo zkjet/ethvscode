@@ -1,24 +1,25 @@
 {
-    "name": "synthwave-x-fluoromachine",
-    "displayName": "Synthwave x Fluoromachine",
-    "description": "Synthwave '84 x Fluoromachine Theme",
-    "version": "0.0.12",
-    "author": "Jeremy Laskar",
-    "publisher": "webrender",
+    "name": "ethvscode",
+    "displayName": "ce9e",
+    "description": "ΞTH VSCode Theme",
+    "version": "0.0.1",
+    "author": "zkJΞT",
+    "publisher": "ZKJlabs",
 	"icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/webrender/synthwave-vscode-x-fluoromachine"
+        "url": "https://github.com/zkjet/ethvscode"
     },
     "engines": {
         "vscode": "^1.33.0"
     },
     "keywords": [
-        "retro",
-        "80s",
-        "vaporwave",
+        "ETH",
+        "ETHEREUM",
+        "hackathon",
         "synthwave",
-        "fluoromachine"
+        "fluoromachine",
+        "cd9e"
     ],
     "categories": [
         "Themes"
@@ -26,9 +27,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synthwave x Fluoromachine",
+                "label": "ETHvscode",
                 "uiTheme": "vs-dark",
-                "path": "./themes/synthwave-x-fluoromachine.json"
+                "path": "./themes/ethvscode.json"
             }
         ]
     }
