@@ -17,7 +17,7 @@
 
 ### Screenshot
 
-![Theme screenshot](screenshot.png)
+![Theme screenshot](https://github.com/zkjet/ethvscode/blob/master/screenshot.png)
 
 ### Installation
 
