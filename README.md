@@ -25,7 +25,7 @@
 • install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)  
 • link the CSS file from this extension in your vscode settings.json:
 
-```json
+```javascript
 On Mac it might look something like the snippet below:
 
 {
