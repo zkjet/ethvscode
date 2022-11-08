@@ -11,8 +11,7 @@
 // After a few hackathons being asked what vscode theme I was using, I decided to make it official, fork my favorite one,
 // synthwave-x-fluoromachine and customize it fully. https://github.com/webrender/synthwave-x-fluoromachine.
 
-// To find this theme in search ethvscode or
-// 'ethvscode', 'ce9e' for the utf-8 of Ξ.
+// To find this theme in search ethvscode or 'ethvscode', 'ce9e' for the utf-8 of Ξ.
 ```
 
 ### Screenshot
